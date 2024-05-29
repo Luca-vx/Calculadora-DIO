@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\bin\Debug\net8.0\Projeto.exe
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\bin\Debug\net8.0\Projeto.deps.json
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\bin\Debug\net8.0\Projeto.dll
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\bin\Debug\net8.0\Projeto.pdb
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.dll
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.pdb
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\MeusCodigos\Calculadora-DIO\Projeto\obj\Debug\net8.0\ref\Projeto.dll
